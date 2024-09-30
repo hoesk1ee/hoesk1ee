@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @hoesk1ee
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, just chat
-<!---
-hoesk1ee/hoesk1ee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Ferry Gunawan! 👋
+
+**Mobile Developer | Flutter Enthusiast**
+
+I am a passionate **mobile developer** with a focus on **cross-platform development** using Flutter and Dart. I enjoy building clean, efficient, and scalable applications with an emphasis on UI/UX. My tech stack includes modern frameworks and tools to help create reliable, performant applications.
+
+---
+
+### 👨‍💻 Tech Stack:
+- **Languages**: Dart, Javascript
+- **Frameworks**: Flutter, Node.js
+- **State Management**: Riverpod, Provider
+- **Databases**: PostgreSQL, Firebase (Firestore, Realtime Database, Authentication)
+- **Backend**: Node.js, Firebase Functions
+
+---
+
+### 🌱 I’m currently learning:
+- Advanced Riverpod state management techniques.
+- Clean Architecture & Separation of Concern
+- Backend optimization with Node.js and Firebase Functions.
+- Performance tuning for Flutter apps.
+
+---
+
+### 📫 Let's connect:
+- LinkedIn: [linkedin.com/in/ferrygn](https://linkedin.com/in/ferrygn)
+- Email: ferrygunawan2025@gmail.com
+
+---
+
