@@ -13,6 +13,8 @@ I am a passionate **mobile developer** with a focus on **cross-platform developm
 - **Databases**: PostgreSQL, Firebase (Firestore, Realtime Database, Authentication)
 - **Backend**: Node.js, Firebase Functions
 
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=2&line1=flutter%2Cflutter%2C0070ff%3Bdart%2Cdart%2C005ee9%3Bsqlite%2Csqlite%2C00ecff%3Briverpod%2Criverpod%2C0eff4a%3B&line2=node.js%2Cnode.js%2C00ff36%3Bexpress%2Cexpress%2C00ff0f%3Bpostgresql%2Cpostgresql%2C2600f0%3Bfirebase%2Cfirebase%2Ceba700%3B)
+
 ---
 
 ### 🌱 I’m currently learning:
