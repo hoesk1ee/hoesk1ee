@@ -27,7 +27,7 @@ I am a passionate **mobile developer** with a focus on **cross-platform developm
 
 ### 📫 Let's connect:
 - LinkedIn: [linkedin.com/in/ferrygn](https://linkedin.com/in/ferrygn)
-- Email: ferrygunawan2025@gmail.com
+- Email: hoeskiee.dev@gmail.com
 
 ---
 
